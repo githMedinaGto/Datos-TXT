@@ -1,0 +1,127 @@
+Publicador,Ciudad_Publicador,País_Publicador,Título_Libro,Precio,Cantidad,Fecha_Orden,Nombre_Tienda,Ciudad_Ubica_Tienda,Estado_Ciudad_Ubica_Tienda
+Algodata Infosystems,Berkeley,USA,But Is It User Friendly?,22.95,85,22/05/1993,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,But Is It User Friendly?,26.39,51,11/06/1995,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,But Is It User Friendly?,29.84,79,26/05/1996,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,But Is It User Friendly?,34.43,78,31/05/1997,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,But Is It User Friendly?,37.87,71,05/06/1998,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,But Is It User Friendly?,41.31,74,18/09/1999,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Cooking with Computers: Surreptitious Balance Sheets,11.95,83,11/03/1993,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Cooking with Computers: Surreptitious Balance Sheets,13.74,31,31/03/1995,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Cooking with Computers: Surreptitious Balance Sheets,15.54,28,15/03/1996,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Cooking with Computers: Surreptitious Balance Sheets,17.93,75,20/03/1997,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Cooking with Computers: Surreptitious Balance Sheets,19.72,36,25/03/1998,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Cooking with Computers: Surreptitious Balance Sheets,21.51,67,08/07/1999,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,Secrets of Silicon Valley,20,48,24/05/1993,Barnum's,Tustin,California
+Algodata Infosystems,Berkeley,USA,Secrets of Silicon Valley,23,55,13/06/1995,Barnum's,Tustin,California
+Algodata Infosystems,Berkeley,USA,Secrets of Silicon Valley,26,5,28/05/1996,Barnum's,Tustin,California
+Algodata Infosystems,Berkeley,USA,Secrets of Silicon Valley,30,64,02/06/1997,Barnum's,Tustin,California
+Algodata Infosystems,Berkeley,USA,Secrets of Silicon Valley,33,20,07/06/1998,Barnum's,Tustin,California
+Algodata Infosystems,Berkeley,USA,Secrets of Silicon Valley,36,89,20/09/1999,Barnum's,Tustin,California
+Algodata Infosystems,Berkeley,USA,Straight Talk About Computers,19.99,100,28/10/1993,Fricative Bookshop,Fremont,California
+Algodata Infosystems,Berkeley,USA,Straight Talk About Computers,22.99,55,17/11/1995,Fricative Bookshop,Fremont,California
+Algodata Infosystems,Berkeley,USA,Straight Talk About Computers,25.99,31,01/11/1996,Fricative Bookshop,Fremont,California
+Algodata Infosystems,Berkeley,USA,Straight Talk About Computers,29.99,59,06/11/1997,Fricative Bookshop,Fremont,California
+Algodata Infosystems,Berkeley,USA,Straight Talk About Computers,32.98,86,11/11/1998,Fricative Bookshop,Fremont,California
+Algodata Infosystems,Berkeley,USA,Straight Talk About Computers,35.98,15,24/02/2000,Fricative Bookshop,Fremont,California
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,19.99,17,14/09/1994,Eric the Read Books,Seattle,Washington
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,19.99,98,14/09/1994,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,22.99,60,03/10/1996,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,22.99,8,03/10/1996,Eric the Read Books,Seattle,Washington
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,25.99,100,18/09/1997,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,25.99,19,18/09/1997,Eric the Read Books,Seattle,Washington
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,29.99,37,23/09/1998,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,29.99,72,23/09/1998,Eric the Read Books,Seattle,Washington
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,32.98,69,28/09/1999,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,32.98,26,28/09/1999,Eric the Read Books,Seattle,Washington
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,35.98,25,10/01/2001,Bookbeat,Portland,Oregon
+Algodata Infosystems,Berkeley,USA,The Busy Executive's Database Guide,35.98,38,10/01/2001,Eric the Read Books,Seattle,Washington
+Binnet & Hardley,Washington,USA,Computer Phobic AND Non-Phobic Individuals: Behavior Variations,21.59,96,29/05/1993,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,Computer Phobic AND Non-Phobic Individuals: Behavior Variations,24.83,1,18/06/1995,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,Computer Phobic AND Non-Phobic Individuals: Behavior Variations,28.07,22,02/06/1996,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,Computer Phobic AND Non-Phobic Individuals: Behavior Variations,32.39,73,07/06/1997,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,Computer Phobic AND Non-Phobic Individuals: Behavior Variations,35.62,5,12/06/1998,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,Computer Phobic AND Non-Phobic Individuals: Behavior Variations,38.86,32,25/09/1999,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,Fifty Years in Buckingham Palace Kitchens,11.95,88,15/06/1992,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,Fifty Years in Buckingham Palace Kitchens,13.74,1,05/07/1994,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,Fifty Years in Buckingham Palace Kitchens,15.54,51,20/06/1995,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,Fifty Years in Buckingham Palace Kitchens,17.93,34,24/06/1996,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,Fifty Years in Buckingham Palace Kitchens,19.72,93,29/06/1997,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,Fifty Years in Buckingham Palace Kitchens,21.51,99,12/10/1998,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean",20.95,29,15/06/1992,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean",24.09,34,05/07/1994,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean",27.24,94,20/06/1995,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean",31.43,56,24/06/1996,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean",34.57,32,29/06/1997,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean",37.71,38,12/10/1998,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,Silicon Valley Gastronomic Treats,19.99,67,12/12/1993,Fricative Bookshop,Fremont,California
+Binnet & Hardley,Washington,USA,Silicon Valley Gastronomic Treats,22.99,12,01/01/1996,Fricative Bookshop,Fremont,California
+Binnet & Hardley,Washington,USA,Silicon Valley Gastronomic Treats,25.99,32,16/12/1996,Fricative Bookshop,Fremont,California
+Binnet & Hardley,Washington,USA,Silicon Valley Gastronomic Treats,29.99,66,21/12/1997,Fricative Bookshop,Fremont,California
+Binnet & Hardley,Washington,USA,Silicon Valley Gastronomic Treats,32.98,90,26/12/1998,Fricative Bookshop,Fremont,California
+Binnet & Hardley,Washington,USA,Silicon Valley Gastronomic Treats,35.98,62,09/04/2000,Fricative Bookshop,Fremont,California
+Binnet & Hardley,Washington,USA,"Sushi, Anyone?",14.99,71,15/06/1992,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Sushi, Anyone?",17.24,96,05/07/1994,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Sushi, Anyone?",19.49,40,20/06/1995,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Sushi, Anyone?",22.49,82,24/06/1996,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Sushi, Anyone?",24.73,59,29/06/1997,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,"Sushi, Anyone?",26.98,79,12/10/1998,News & Brews,Los Gatos,California
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,2.99,95,14/09/1994,Bookbeat,Portland,Oregon
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,2.99,34,14/09/1994,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,3.44,78,03/10/1996,Bookbeat,Portland,Oregon
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,3.44,33,03/10/1996,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,3.89,13,18/09/1997,Bookbeat,Portland,Oregon
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,3.89,98,18/09/1997,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,4.49,92,23/09/1998,Bookbeat,Portland,Oregon
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,4.49,68,23/09/1998,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,4.93,3,28/09/1999,Bookbeat,Portland,Oregon
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,4.93,40,28/09/1999,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,5.38,69,10/01/2001,Bookbeat,Portland,Oregon
+Binnet & Hardley,Washington,USA,The Gourmet Microwave,5.38,32,10/01/2001,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Emotional Security: A New Algorithm,7.99,73,29/05/1993,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Emotional Security: A New Algorithm,9.19,13,18/06/1995,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Emotional Security: A New Algorithm,10.39,87,02/06/1996,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Emotional Security: A New Algorithm,11.99,76,07/06/1997,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Emotional Security: A New Algorithm,13.18,85,12/06/1998,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Emotional Security: A New Algorithm,14.38,79,25/09/1999,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,10.95,64,13/09/1994,Eric the Read Books,Seattle,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,10.95,48,14/09/1994,News & Brews,Los Gatos,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,10.95,92,14/09/1994,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,10.95,22,13/09/1994,Barnum's,Tustin,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,12.59,14,02/10/1996,Barnum's,Tustin,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,12.59,21,02/10/1996,Eric the Read Books,Seattle,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,12.59,8,03/10/1996,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,12.59,37,03/10/1996,News & Brews,Los Gatos,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,14.24,28,17/09/1997,Barnum's,Tustin,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,14.24,72,17/09/1997,Eric the Read Books,Seattle,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,14.24,34,18/09/1997,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,14.24,28,18/09/1997,News & Brews,Los Gatos,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,16.43,43,22/09/1998,Barnum's,Tustin,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,16.43,30,22/09/1998,Eric the Read Books,Seattle,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,16.43,25,23/09/1998,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,16.43,45,23/09/1998,News & Brews,Los Gatos,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,18.07,37,27/09/1999,Barnum's,Tustin,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,18.07,57,27/09/1999,Eric the Read Books,Seattle,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,18.07,26,28/09/1999,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,18.07,64,28/09/1999,News & Brews,Los Gatos,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,19.71,49,09/01/2001,Barnum's,Tustin,California
+New Moon Books,Boston,USA,Is Anger the Enemy?,19.71,52,09/01/2001,Eric the Read Books,Seattle,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,19.71,50,10/01/2001,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Is Anger the Enemy?,19.71,10,10/01/2001,News & Brews,Los Gatos,California
+New Moon Books,Boston,USA,Life Without Fear,7,52,29/05/1993,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Life Without Fear,8.05,77,18/06/1995,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Life Without Fear,9.1,71,02/06/1996,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Life Without Fear,10.5,71,07/06/1997,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Life Without Fear,11.55,100,12/06/1998,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Life Without Fear,12.6,81,25/09/1999,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Prolonged Data Deprivation: Four Case Studies,19.99,94,29/05/1993,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Prolonged Data Deprivation: Four Case Studies,22.99,12,18/06/1995,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Prolonged Data Deprivation: Four Case Studies,25.99,47,02/06/1996,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Prolonged Data Deprivation: Four Case Studies,29.99,34,07/06/1997,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Prolonged Data Deprivation: Four Case Studies,32.98,38,12/06/1998,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,Prolonged Data Deprivation: Four Case Studies,35.98,47,25/09/1999,Doc-U-Mat: Quality Laundry and Books,Remulade,Washington
+New Moon Books,Boston,USA,You Can Combat Computer Stress!,2.99,25,21/02/1993,Fricative Bookshop,Fremont,California
+New Moon Books,Boston,USA,You Can Combat Computer Stress!,3.44,38,13/03/1995,Fricative Bookshop,Fremont,California
+New Moon Books,Boston,USA,You Can Combat Computer Stress!,3.89,91,26/02/1996,Fricative Bookshop,Fremont,California
+New Moon Books,Boston,USA,You Can Combat Computer Stress!,4.49,65,02/03/1997,Fricative Bookshop,Fremont,California
+New Moon Books,Boston,USA,You Can Combat Computer Stress!,4.93,96,07/03/1998,Fricative Bookshop,Fremont,California
+New Moon Books,Boston,USA,You Can Combat Computer Stress!,5.38,27,20/06/1999,Fricative Bookshop,Fremont,California
